@@ -162,6 +162,7 @@ span{
         height: 722px;
         translateY: 15em; 
         margin-bottom: 120px;
+        overflow-y: scroll;   
     }
 
     .card-content1{
