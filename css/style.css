@@ -164,8 +164,7 @@ span{
     .card{
         width: 311px;
         height: 722px;
-        translateY: 15em; 
-        margin-bottom: 120px;
+        translateY: 15em;
     }
 
     .card-content1{
